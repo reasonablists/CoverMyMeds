@@ -1,0 +1,9 @@
+CoverMyMeds Challenge Problem
+At CoverMyMeds, time series analysis forms the backbone of the financial projections we make at the beginning of each fiscal year and helps us set realistic but challenging company goals.  Many of our products have multiple customers whose behaviors might (or might not) influence each other.  We are presenting daily volume (can be thought of as purchases) of one product for three customers. Questions that you should answer in this project are the following: 
+What trends are in the data at the daily, monthly, and yearly levels? 
+What variables do and do not affect daily volume? 
+How does the behavior of one customer affect the behavior of the other customers? 
+How accurately can you predict what will happen in 2019 at the monthly and yearly levels? 
+How accurate are your projections 1 month, 3 months, and 6 months after the  day they were forecasted from? 
+
+Dataset can be found at https://osu.box.com/s/a9sxjda1iskh23p9azgjyrqa9817k2hj. Data is given as a parquet file (.pq file extension). 
